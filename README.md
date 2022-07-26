@@ -1,4 +1,4 @@
-### Bem vindo! Eu me chamo Davi Vieira...
+### Bem vindo! Prazer, eu me chamo Davi Vieira. 😁
 
 - 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura.
 - 💻 Estudando atualmente HTML5, CSS3, JavaScript e Python.
