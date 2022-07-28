@@ -1,4 +1,4 @@
-<img align="right" alt="Davi-Desenho" height="145" src="https://i.im.ge/2022/07/28/F9xJqS.md.png"> <a href="https://github.com/davivieira10"></a>
+<img align="right" alt="Davi-Desenho" height="145" src="https://i.im.ge/2022/07/28/F9xJqS.md.png"><div><a href="https://github.com/davivieira10"></a></div>
 ### Bem vindo! Prazer, eu me chamo Davi Vieira. 😁
 
 - 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura.   
