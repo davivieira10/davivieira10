@@ -3,7 +3,6 @@
 - 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura. 
 - 💻 Estudando atualmente HTML5, CSS3, JavaScript, Python e Django. 
 
-  <img align="right" alt="Davi-Desenho" height="140" src="https://i.im.ge/2022/07/28/F9xJqS.md.png">   
 <a href="https://github.com/davivieira10">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davivieira10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivieira10&layout=compact&langs_count=7&theme=dark"/>
@@ -15,6 +14,7 @@
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="right" alt="Davi-Desenho" height="140" src="https://i.im.ge/2022/07/28/F9xJqS.md.png">   
 </div>
 <br>
 
