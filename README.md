@@ -5,8 +5,8 @@
 - 💻 Estudando atualmente HTML5, CSS3, JavaScript, Python e Django. 
 
 <a href="https://github.com/davivieira10">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davivieira10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivieira10&layout=compact&langs_count=7&theme=dark"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=davivieira10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img widht="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivieira10&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
