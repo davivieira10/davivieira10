@@ -1,6 +1,7 @@
-### Bem vindo! Prazer, eu me chamo Davi Vieira. 😁 <img align="right" alt="Davi-Desenho" height="120" src="https://i.im.ge/2022/07/28/F9xJqS.md.png"> 
+### Bem vindo! Prazer, eu me chamo Davi Vieira. 😁 
 
-- 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura.   
+- 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura. 
+  <img align="right" alt="Davi-Desenho" height="140" src="https://i.im.ge/2022/07/28/F9xJqS.md.png">   
 - 💻 Estudando atualmente HTML5, CSS3, JavaScript, Python e Django. 
 
 <a href="https://github.com/davivieira10">
