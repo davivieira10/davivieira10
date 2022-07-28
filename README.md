@@ -1,7 +1,8 @@
+<img align="right" alt="Davi-desenho" height="150" src="https://i.im.ge/2022/07/28/F9xJqS.md.png">
 ### Bem vindo! Prazer, eu me chamo Davi Vieira. 😁
 
-- 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura.
-- 💻 Estudando atualmente HTML5, CSS3, JavaScript, Python e Django.
+- 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura.   
+- 💻 Estudando atualmente HTML5, CSS3, JavaScript, Python e Django. 
 
 <a href="https://github.com/davivieira10">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davivieira10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,3 +28,4 @@
   ![Snake animation](https://github.com/davivieira10/davivieira10/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+ 
