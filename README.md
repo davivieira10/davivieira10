@@ -1,4 +1,4 @@
-### Bem vindo! Prazer, eu me chamo Davi Vieira. 😁 src="https://i.postimg.cc/9XKgw4Ff/eu-desenho-tamanho-original.jpg">  
+### Bem vindo! Prazer, eu me chamo Davi Vieira. 😁 <img align="center" alt="Davi-Django" height="50" width="50" src="https://i.postimg.cc/9XKgw4Ff/eu-desenho-tamanho-original.jpg">  
 <a href="https://github.com/davivieira10">
 
 - 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura. 
