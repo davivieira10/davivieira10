@@ -14,7 +14,7 @@
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Davi-Desenho" height="200" width="200" src="https://i.postimg.cc/9XKgw4Ff/eu-desenho-tamanho-original.jpg">  
+  <img align="center" alt="Davi-Desenho" height="100" width="100" src="https://i.postimg.cc/9XKgw4Ff/eu-desenho-tamanho-original.jpg">  
 </div>
 <br>
 <br>
