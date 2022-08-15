@@ -1,6 +1,6 @@
 ### Bem vindo! Prazer, eu me chamo Davi Vieira. 😁 
 
-- 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura. <img align="center" alt="Davi-Desenho" height="200" width="200" src="https://i.postimg.cc/9XKgw4Ff/eu-desenho-tamanho-original.jpg">  
+- 🔭 Sou iniciante na área de programação pelo Programa Oracle Next Education em parceira com a Alura. 
 - 💻 Estudando atualmente HTML5, CSS3, JavaScript, Python e Django. 
 
 <a href="https://github.com/davivieira10">
@@ -14,6 +14,7 @@
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Davi-Desenho" height="200" width="200" src="https://i.postimg.cc/9XKgw4Ff/eu-desenho-tamanho-original.jpg">  
 </div>
 <br>
 <br>
