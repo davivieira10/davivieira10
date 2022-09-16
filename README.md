@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/37/88/f5/3788f590a3342071e16957d047bc43d3.gif...)]
+[![MasterHead](https://i.pinimg.com/originals/37/88/f5/3788f590a3342071e16957d047bc43d3.gif)]
 ### Bem vindo! Prazer, eu me chamo Davi Vieira. <a href="https://github.com/davivieira10" target="_blank"><img align="center" alt="Davi-Django" height="50" width="50" src="https://i.postimg.cc/9XKgw4Ff/eu-desenho-tamanho-original.jpg"><a href="https://github.com/davivieira10"></a>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/37/88/f5/3788f590a3342071e16957d047bc43d3.gif"/>
