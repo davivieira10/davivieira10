@@ -1,4 +1,3 @@
-[![MasterHead](https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)]
 ### Bem vindo! Prazer, eu me chamo Davi Vieira. <a href="https://github.com/davivieira10" target="_blank"><img align="center" alt="Davi-Django" height="50" width="50" src="https://i.postimg.cc/9XKgw4Ff/eu-desenho-tamanho-original.jpg"><a href="https://github.com/davivieira10"></a>
   
 - 🔭 Estudando programação pelo Programa Oracle Next Education em parceira com a Alura. 
